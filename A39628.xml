@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Five new letters from Ostend, sent by some English soldiers which were in the late battel before Mons, to their friends in London</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39628</idno>
+            <idno type="STC">Wing F1115</idno>
+            <idno type="STC">ESTC R18290</idno>
+            <idno type="EEBO-CITATION">12282418</idno>
+            <idno type="OCLC">ocm 12282418</idno>
+            <idno type="VID">58770</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39628)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58770)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 627:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Five new letters from Ostend, sent by some English soldiers which were in the late battel before Mons, to their friends in London</title>
+                  <author>I. D.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for D.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Each of the five letters signed respectively: I.D., R.W., M.S., I.C., L.S.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58770:1"/>
+            <pb facs="tcp:58770:1" rendition="simple:additions"/>
+            <p>FIVE New Letters FROM OSTEND, Sent by ſome Engliſh Soldiers Which were in the late BATTEL BEFORE MONS, To their Friends in <hi>London.</hi>
+            </p>
+            <p>With Allowance.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for D. M. 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letters">
+            <pb facs="tcp:58770:2"/>
+            <head>Letters from <hi>OSTEND.</hi>
+            </head>
+            <div n="1" type="letter">
+               <head>LETTER I. To the Dear Mrs. <hi>A. N.</hi> living in <hi>Old-ſtreet.</hi>
+               </head>
+               <p>THat ravenous Bullet, my dear <hi>Nancie,</hi> which robb'd me of my Left Hand, was yet mer<g ref="char:EOLhyphen"/>ciful in its choice, that it ſpar'd me my Right one to write you of the Misfortune; yet it's well it miſt my Heart, ſince your fair Idea is ſo deeply imprinted therein, that it would have been not only guilty of depriving me of Breath, but of that much more cruel and Sacrilegious Fact of deſtroying you in <hi>Effigie.</hi> In the heat of Battel, the Martial noiſe of Drum and Trumpets Chorus'd with the dreadful ſhreiks of dying Men, could not drive you out of my Memory; but on the con<g ref="char:EOLhyphen"/>trary, the hopes of that undiſturbed happineſs I ſhall injoy when I ſhall graſpe you in my Arms, fir'd me to do Actions worthy ſo incomparable a felicity. Should I hear that you were too laviſh of your Tears at the news of my Wound, the tidings of your grief would trouble me more than either
+<pb n="3" facs="tcp:58770:2"/>my pain or misfortune: but to prevent that wa<g ref="char:EOLhyphen"/>trie tribute which I am confident your affectionate Heart will be too prone to exact from your fair eyes, I do aſſure you the Surgeon does not doubt of my Recovery.</p>
+               <p>I am at preſent in good temper of Body, and do enjoy in common with the reſt of the Wounded Men here about me, all things fit for perſons in our condition; ſo that I doubt not but to live to tell you what dangers I have been in, and what more I would willingly imbrace to be eſteemed, as in<g ref="char:EOLhyphen"/>deed I am,</p>
+               <closer>
+                  <signed>The moſt faithful, <hi>&amp;c.</hi> of your Servants, <hi>I. D.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div n="2" type="letter">
+               <head>LETTER II.</head>
+               <p>I Doubt not, deareſt <hi>Betty,</hi> but you have heard of the late Ingagement; but could you imagine what danger I was in, you would either have concluded you ſhould never hear from me again, or if you did, that I muſt have dated my Letter from the Grave. I know not what our Ghoſts do, or where they inhabit after Death; but ſure I am, if they retain any tincture of our Souls whilſt we live, mine would ſometime or other have been ſo kind, as to whiſper you in the ear, that I dyed yours. Your fair form, ever ſince I had the firſt bleſſing to behold it, fill'd my Amorous Breaſt ſo full of Love, that there has never ſince been any
+<pb n="4" facs="tcp:58770:3"/>room or vacuity left for the re-acception of any other paſſion. This I but lately experienced for a truth: for although it was my fortune to be placed in the midſt of this obſtinate Rencounter, where I might eaſily behold all the diſmal effects of a Bloody Battel, wherein all the circumſtances of Horror and Amazement were drawn to the Life, and I my ſelf one of the buſie Agents to make it more terri<g ref="char:EOLhyphen"/>ble; yet neither the conſideration of my own dan<g ref="char:EOLhyphen"/>ger, nor a compaſſion of my fellow-creatures miſery, could work in my repleniſht Breaſt the leaſt pro<g ref="char:EOLhyphen"/>penſity either to fear or pitty; ſo full was I of <hi>you,</hi> that methought every Man I ſaw was your Enemy, and I only ſtood in your Vindication: this imagi<g ref="char:EOLhyphen"/>nation whetted my Sword, and poyſoned my Bul<g ref="char:EOLhyphen"/>lets againſt the Enemy, ſo that in effect, I fought for you as the deareſt pledge in the World, I in<g ref="char:EOLhyphen"/>vokt you as my Saint, I prayed to you, and in fine, was either delivered by you, or for you; in hopes of the latter,</p>
+               <closer>
+                  <signed>Yours or Deaths, <hi>R. W.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div n="3" type="letter">
+               <head>LETTER III. To Mrs. <hi>H. L.</hi> in <hi>White-chappel.</hi>
+               </head>
+               <p>THe Affection, dear <hi>Hannah,</hi> you ever doubted, is now come to the teſt, and by good for<g ref="char:EOLhyphen"/>tune I have lighted on your Brother to do me this favour of writing you my Condition. He aſ<g ref="char:EOLhyphen"/>ſures
+<pb n="5" facs="tcp:58770:3"/>me alſo to acquaint you that Heaven and you are the two laſt things <hi>I</hi> ſhall think of in this world; and indeed I do not know but this very thought wherewith I inſtruct him what I would have you know, will be my laſt, it being my good fortune (for ſince your cruel denial you know I never coveted to live) in the beginning of this Engagement to be ſhot off by a Cannon-bullet al<g ref="char:EOLhyphen"/>moſt in the middle: my Intrals are not onely diſ<g ref="char:EOLhyphen"/>cernable, but ſome of them broken, ſo that I am in continual expectation that friendly Death will now quickly rid you of that wretched Creature whom you never thought worthy your Eſteem. Ah, my dear Miſtriſs, could Paſſion compound for an Eſtate, or might an entire Affection have been thought ſterling. I had certainly been the richeſt man in the world. I was indeed a Miſer in Love; my Heart was the Coffer, and with a greedy ambi<g ref="char:EOLhyphen"/>tion, if it were poſſible, I too much Idoliz'd the Treaſure I hid therein. Envy me not my preſumpti<g ref="char:EOLhyphen"/>on in adoring you, ſince my inpropitious Stars have on your ſide eſpouſed the Affront, and ſufficiently revenged my ſacrilegious Attempt; yet ſince my Crime was onely Love, and that ſo pure, that An<g ref="char:EOLhyphen"/>gels might own it without giving the leaſt blot to their more-refined Converſations: ſince, I ſay, my Crime was onely LOVE, let your Hatred die with me. Purſue not your Cruelty to the Grave, nor let your potent Frowns diſturb my melancholy Pe<g ref="char:EOLhyphen"/>rambulations in the other world; where if, when
+<pb n="6" facs="tcp:58770:4"/>your happy days ſhall be expir'd, it ſhall be my fortune to meet you, I will tell you ſo ſad a ſtory of my former Affection, that <hi>Hero</hi> ſhall weep, and <hi>Leander</hi> be aſham'd, that they could not love like</p>
+               <closer>
+                  <signed>Your Dying Servant, <hi>M. S.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div n="4" type="letter">
+               <head>LETTER IV. For Mrs. <hi>J. F.</hi> in <hi>Golden-lane.</hi>
+               </head>
+               <p>WHen I had eſcaped the danger I was in by our engaging the <hi>French</hi> before <hi>Mons,</hi> I could not, my dear <hi>Jenny,</hi> (with whom I have ever waſted my moſt happy minutes, and in whoſe retentive Boſom I have often lodged, with good ſucceſs, my moſt important ſecrets) but hold my ſelf obliged both by the Laws of Love and Friend<g ref="char:EOLhyphen"/>ſhip to give you information of my ſafety. 'Tis true, at firſt when I ſaw both ſides draw up in<g ref="char:EOLhyphen"/>to Battalia, I quarrel'd with my ſelf that I could not ſhake off ſome little fear, which in ſpite of all my reſolution crept into my thoughts at the apprehenſion of thoſe diſmal effects which muſt needs be the reſult of ſo deſperate a Detach<g ref="char:EOLhyphen"/>ment: 'Twas then I turned my Face homewards, and with a deep Sigh and heavy Heart, gave thee a lowd Farewel; which I had hardly done be<g ref="char:EOLhyphen"/>fore the Martial ſound of War called us to Battle;
+<pb n="7" facs="tcp:58770:4"/>ar which, as if I had been in a Trance before, a native rage fled through my Engliſh-blood, and quite diſperſt thoſe timorous thoughts which plagued my breaſt before. I ſhall forbear the par<g ref="char:EOLhyphen"/>ticulars of that great Action, becauſe I queſtion not but you have heard them ere this: I ſhall onely therefore acquaint you that our Engliſh, ac<g ref="char:EOLhyphen"/>cording to their old cuſtome, behaved themſelves to admiration. That <hi>R. B.</hi> and <hi>T. M.</hi> had the ho<g ref="char:EOLhyphen"/>nour to die in the field of Honour.</p>
+               <closer>
+                  <signed>Your truely loving Friend and Servant, <hi>I. C.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div n="5" type="letter">
+               <head>LETTER V. To <hi>E. W.</hi> in St. <hi>Giles's in the Fields.</hi>
+               </head>
+               <p>THou know'ſt, honeſt <hi>Comrade,</hi> I ever had a ſtrange curioſity to be ſome petty Actor in a remarkable Fight: Methought the diſcreet ordering of an Army, the expert drawing up of ſeveral men, and they of divers Nations and Lan<g ref="char:EOLhyphen"/>guages, into Battalia, and making them capable of obedience under the ſame words of Command; the glittering of Swords, the clangor of Trumpets, the noiſe of Drums, the ſhouts of the Victorious, the ſhreiks of the Oppreſſed, the neighing of Horſes, the roaring of Cannon, the clattering of Muſquets, the flouriſhing of Colours, and a thouſand other remarkables which muſt needs happen in thoſe fa<g ref="char:EOLhyphen"/>tal
+<pb n="8" facs="tcp:58770:5"/>Conjunctures, were objects too glorious for a common eye. And therefore I had a great deſire to be an Agent in the Debate betwixt us &amp; the <hi>French</hi> on the 14 inſtant, where I beheld all, and more than I could imagine before: and truſt me, honeſt <hi>Ned,</hi> it did me good to ſee it ſo bravely diſputed on both ſides; but eſpecially to behold my Country<g ref="char:EOLhyphen"/>men under the Command of our never-enough-to-be-celebrated General, doing wonders, and like Bulworks under ſhowers of Bullets, which rained on them from all ſides. To ſee whole heaps of the ſlaughtered on both ſides lying hudled together, whilſt their bluſhing Blood, as if aſhamed of their lifeleſs Trunks, in the heat of action collected in<g ref="char:EOLhyphen"/>to Rivulets, and ſilently glided through the buſie Army. I could write thee Miracles, but want lei<g ref="char:EOLhyphen"/>ſure at preſent: Know then, that <hi>D. T.</hi> was woun<g ref="char:EOLhyphen"/>ded, and <hi>R. H.</hi> killed in the Battle; and that I continue, as I ever was,</p>
+               <closer>
+                  <signed>Thy true Friend, <hi>&amp;c. L. S.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
